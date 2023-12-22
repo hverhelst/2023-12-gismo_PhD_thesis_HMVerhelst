@@ -29,6 +29,8 @@ Installation instructions can be found below. It is advised to compile with the 
   GISMO_WITH_MPI          ON
 ```
 
+---
+
 
 ```
      GGGGGGGGG      GGGG      GGGGGGGGG  GGGGGG   GGGGGG  GGGGGGGGGG
