@@ -1,0 +1,17 @@
+namespace gismo {
+/**
+
+\page example_shell3D example_shell3D.cpp
+
+Simple 3D examples for the shell class
+
+\section example_shell3D_Annotated Annotated source file
+
+Here is the full file \c examples/example_shell3D.cpp. Clicking on a function
+or class name will lead you to its reference documentation.
+
+\include example_shell3D.cpp
+
+*/
+
+}

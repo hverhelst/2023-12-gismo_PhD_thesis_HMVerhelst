@@ -1,0 +1,17 @@
+namespace gismo {
+/**
+
+\page example_shell2D example_shell2D.cpp
+
+Simple 2D examples for the shell class
+
+\section example_shell2D_Annotated Annotated source file
+
+Here is the full file \c examples/example_shell2D.cpp. Clicking on a function
+or class name will lead you to its reference documentation.
+
+\include example_shell2D.cpp
+
+*/
+
+}
